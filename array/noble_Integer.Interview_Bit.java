@@ -1,3 +1,5 @@
+//Question link
+//https://www.interviewbit.com/problems/noble-integer/
 public class Solution {
     public int solve(int[] a) {
         int i,n=a.length;
