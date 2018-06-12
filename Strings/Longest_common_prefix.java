@@ -1,4 +1,4 @@
-//https://www.interviewbit.com/problems/longest-common-prefix/
+// Que :-  https://www.interviewbit.com/problems/longest-common-prefix/
 
 public class Solution {
     public String longestCommonPrefix(ArrayList<String> a) {
